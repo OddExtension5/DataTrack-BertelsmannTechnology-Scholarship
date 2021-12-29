@@ -1,4 +1,4 @@
-## RESOURCES OF BUSINESS ANALYTICS
+## RESOURCES FOR BUSINESS ANALYTICS
 
 1. [Business Metrics : Terminology and Formulas](https://github.com/OddExtension5/DataTrack-BertelsmannTechnology-Scholarship/blob/main/Resources/business-metrics-lesson-terminology-and-formulas-1.pdf)
 2. [Statistics Formulas](https://github.com/OddExtension5/DataTrack-BertelsmannTechnology-Scholarship/blob/main/Resources/Statistics%20Formula%20Sheet.pdf)
