@@ -17,3 +17,12 @@ Check Out 👉: [COURSE TIMELINE](https://github.com/OddExtension5/DataTrack-Ber
 7. **Business Metrics**
 8. **Excel Modeling**
 9. **FINAL ASSESSMENT**
+
+### Blogs
+
+1. ![Statistics Big Picture](https://blog.jovian.ai/statistics-the-big-picture-645a698f9e82)
+
+
+### Resources
+
+For amazing resources head to the ![Resource Folder](https://github.com/OddExtension5/DataTrack-BertelsmannTechnology-Scholarship/tree/main/Resources)
