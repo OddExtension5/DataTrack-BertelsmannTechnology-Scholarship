@@ -1,8 +1,10 @@
 # Data Track-Bertelsmann Technology Scholarship
 
-## BUSINESS ANALYTICS SCHOLARSHIP
+## BUSINESS ANALYTICS SCHOLARSHIP 🤩
 
-### CORE CURRICULUM
+Check Out 👉: [COURSE TIMELINE](https://github.com/OddExtension5/DataTrack-BertelsmannTechnology-Scholarship/blob/main/Data%20Track%20-%20Recommended%20Course%20Timeline.pdf)
+
+### CORE CURRICULUM 👇
 
 ![Image](https://video.udacity-data.com/topher/2021/June/60d3852a_visuals-for-nd098-1/visuals-for-nd098-1.jpg)
 
