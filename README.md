@@ -20,9 +20,9 @@ Check Out 👉: [COURSE TIMELINE](https://github.com/OddExtension5/DataTrack-Ber
 
 ### Blogs
 
-1. ![Statistics Big Picture](https://blog.jovian.ai/statistics-the-big-picture-645a698f9e82)
+1. [Statistics Big Picture](https://blog.jovian.ai/statistics-the-big-picture-645a698f9e82)
 
 
 ### Resources
 
-For amazing resources head to the ![Resource Folder](https://github.com/OddExtension5/DataTrack-BertelsmannTechnology-Scholarship/tree/main/Resources)
+For amazing resources head to the [Resource Folder](https://github.com/OddExtension5/DataTrack-BertelsmannTechnology-Scholarship/tree/main/Resources)
