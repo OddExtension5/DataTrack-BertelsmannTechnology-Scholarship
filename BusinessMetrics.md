@@ -27,7 +27,7 @@ As a business analyst, it is important to analyze and convey your company's perf
 + **Grouping data**: We will end with a discussion on how to look at the data across groups, cohorts, and time.
 
 
-# ![KEY PERFORMANCE INDICATORS (KPI)](https://kpidashboards.com/kpi/)
+# [KEY PERFORMANCE INDICATORS (KPI)](https://kpidashboards.com/kpi/)
 
 Businesses need to be able to track how they are performing on key goals or objectives - whether they are growing number of customers, bringing down their costs, increasing revenue on an ongoing basis, and myriad others. 
 
